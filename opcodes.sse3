@@ -1,0 +1,13 @@
+addsubpd
+addsubps
+haddpd
+haddps
+hsubpd
+hsubps
+lddqu
+movddup
+movshdup
+movsldup
+fisttp
+monitor
+mwait
